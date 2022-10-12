@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rabiyagulden
 - 👀 I’m interested in Angular &  .Net Framework
 - 🌱 I’m currently learning Design patterns & Angular, Native Script
-- 💞️ I’m looking to collaborate with Mobil Developers
+- 💞️ I’m looking to collaborate with other content creators and developers.
 - 📫 How to reach me  aydinrabiya@gmail.com
 
 <!---
